@@ -1,8 +1,8 @@
 # Project Report: Student Details Console Application
 
-**Student Name:** [Moses Tandu Zachariah Hissen]  
-**Course:** [Bachelors of Business Computing]  
-**Date:** September 3, 2026  
+**Student Name:** Moses Tandu Zachariah Hissen  
+**Course:** Bachelors of Business Computing 
+**Date:** September 4, 2026  
 **Language:** Java  
 **Tool:** VS Code with JDK
 
