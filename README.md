@@ -28,9 +28,9 @@ Bachelor of Business Computing, Bugema University
 ======================================================
 
   Enter your Full Name     : Moses Tandu
-  Enter your Student ID    : 24BCC001
-  Enter your Course Name   : Bachelor of Computer Science
-  Enter your Year of Study : 2
+  Enter your Student ID    : 24/BCC/BU/R/0016
+  Enter your Course Name   : Bachelor of Business Computing
+  Enter your Year of Study : 1
   Enter your Email Address : moses@example.com
 
 ======================================================
